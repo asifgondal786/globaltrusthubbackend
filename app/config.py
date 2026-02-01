@@ -47,6 +47,8 @@ class Settings(BaseSettings):
         "http://localhost:62937",
         "http://127.0.0.1:8080",
         "https://globaltrusthub.com",
+        "https://globaltrusthub-60e73.web.app",
+        "https://globaltrusthub-60e73.firebaseapp.com",
         "https://forexcompanion-e5a28.web.app",
     ]
     
