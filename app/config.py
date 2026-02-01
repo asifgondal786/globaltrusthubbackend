@@ -45,9 +45,9 @@ class Settings(BaseSettings):
         "http://localhost:58907",
         "http://localhost:60158",
         "http://localhost:62937",
-        "http://127.0.0.1:5000",
         "http://127.0.0.1:8080",
         "https://globaltrusthub.com",
+        "https://forexcompanion-e5a28.web.app",
     ]
     
     # File Upload
